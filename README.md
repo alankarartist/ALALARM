@@ -1,6 +1,6 @@
 # AlAlarm
 
-A script to set alarm for a particular time, which will be triggered with a GUI at that particular time.
+A script to set alarm for a particular time, which will be triggered with a GUI at that set time.
 
 ## Installation
 
