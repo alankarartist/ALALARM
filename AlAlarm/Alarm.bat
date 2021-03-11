@@ -1,0 +1,1 @@
+"C:\Users\hp\AppData\Local\Programs\Python\Python39\python.exe" "A:\CODING\PYTHON\ALALARM\AlAlarm.py" "16:32"
