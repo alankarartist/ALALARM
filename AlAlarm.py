@@ -4,7 +4,7 @@ import winsound
 import datetime
 import sys
 import time
-from AlAlarm.AlGUILoop import AlGUILoop 
+from AlGUILoop.AlGUILoop import AlGUILoop 
 
 def AlAlarm(alarmTime):
     
