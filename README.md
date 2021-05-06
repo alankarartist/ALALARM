@@ -20,4 +20,4 @@ pip install PyAudio
 ![](/Capture.JPG)
 
 1. Run AlSetAlarm.py and give voice command as 3:30 AM or 3:30 PM. 
-2. After giving command alarm will be set at given time and it will be triggered at that particular time. 
+2. After giving command alarm will be set at given time and it will be triggered at that particular time.
