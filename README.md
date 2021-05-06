@@ -7,6 +7,7 @@ A script to set alarm for a particular time, which will be triggered with a GUI 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
 ```bash
+pip install alguiloop
 pip install datefinder
 pip install SpeechRecognition
 pip install pyttsx3
