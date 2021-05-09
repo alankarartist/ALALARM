@@ -24,6 +24,7 @@ def scheduleTask(taskName, actionPath, executionTime):
     task_def.RegistrationInfo.Description = taskName
     task_def.Settings.Enabled = True
     task_def.Settings.StopIfGoingOnBatteries = False
+    task_def.Settings.DisallowStartIfOnBatteries = False
 
     # Register task
     # If task already exists, it will be updated
