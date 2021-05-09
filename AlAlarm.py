@@ -27,6 +27,8 @@ def AlAlarm(alarmTime):
     root.configure(background='black')
     root.resizable(0,0)
     root.overrideredirect(1)
+    root.lift()
+    root.attributes('-topmost',True)
     
     def start():
         textTime = time.strftime('%H:%M:%S')
