@@ -25,5 +25,5 @@ pip install PyAudio
 ## Contributor
 
 <a href="https://github.com/alankarartist/ALALARM/graphs/contributors">
-    <img width="100%" src="https://contrib.rocks/image?repo=alankarartist/ALALARM" />
+    <img src="https://contrib.rocks/image?repo=alankarartist/ALALARM" />
 </a>
