@@ -1,1 +1,1 @@
-"C:\Users\hp\AppData\Local\Programs\Python\Python39\python.exe" "A:\CODING\PYTHON\ALALARM\AlAlarm.py" "16:32"
+"C:\Users\hp\AppData\Local\Programs\Python\Python39\python.exe" "A:\TECHNOLOGIES\PYTHON\ALALARM\AlAlarm.py" "18:53"

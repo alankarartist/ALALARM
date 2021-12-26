@@ -1,5 +1,6 @@
-import datetime, os
+import os
 import win32com.client
+
 
 def scheduleTask(taskName, actionPath, executionTime):
     scheduler = win32com.client.Dispatch('Schedule.Service')
@@ -18,7 +19,8 @@ def scheduleTask(taskName, actionPath, executionTime):
     action = task_def.Actions.Create(TASK_ACTION_EXEC)
     action.ID = taskName
     action.Path = actionPath
-    action.WorkingDirectory = os.path.abspath(os.path.join(actionPath, os.pardir))
+    action.WorkingDirectory = os.path.abspath(os.path.join(actionPath,
+                                                           os.pardir))
 
     # Set parameters
     task_def.RegistrationInfo.Description = taskName
